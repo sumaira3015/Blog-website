@@ -58,7 +58,7 @@ function Footer() {
 
           {/* Third Column */}
           <div className="space-y-4">
-            <h3 className="text-xs uppercase tracking-wider">About Nike</h3>
+            <h3 className="text-xs uppercase tracking-wider">About Balloons</h3>
             <nav className="flex flex-col space-y-4">
               <Link href="#" className="text-xs text-[#eeeeee] hover:text-readMoreHoverTextColor">
                 News
@@ -107,7 +107,7 @@ function Footer() {
               <div className="flex items-center space-x-2">
                 <span className="text-xs">India</span>
               </div>
-              <p className="text-[11px] text-[#eeeeee]">© 2023 Nike, Inc. All Rights Reserved</p>
+              <p className="text-[11px] text-[#eeeeee]">© 2023 BalloonsArt, Inc. All Rights Reserved</p>
             </div>
             <nav className="flex flex-wrap gap-x-6 gap-y-2 mt-4 lg:mt-0">
               <Link href="#" className="text-xs text-[#eeeeee] hover:text-readMoreHoverTextColor">
